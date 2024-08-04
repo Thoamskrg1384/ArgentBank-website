@@ -1,0 +1,19 @@
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 20px;
+
+    .navigation__list {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        list-style: none;
+    
+    }
+
+    img {
+        max-width: 100%;
+        width: 200px;  
+    }
+}

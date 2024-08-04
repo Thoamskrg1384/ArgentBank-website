@@ -1,0 +1,11 @@
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navigation .navigation__list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+}/*# sourceMappingURL=style.css.map */
